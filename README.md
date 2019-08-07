@@ -5,4 +5,6 @@ react-native-vector-icons的使用
 拷贝到生成的icomoon文件夹下，执行命名node readIcomoon.js
 
 拷贝失败请将iconmmon.ttf拷贝至readIcomoon.js同级执行
+
+
 运行无效请清除缓存重试npm start -- --reset-cache
